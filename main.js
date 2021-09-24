@@ -1,4 +1,4 @@
-const container = document.querySelector("#container");
+const container = document.querySelector('#container');
 const clearButton = document.querySelector('.amountGrid');
 const active = false;
 
